@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1>Desempenho de Vendas</h1>
+      <h1 className="text-primary">Desempenho de Vendas</h1>
     </div>
   );
 }
