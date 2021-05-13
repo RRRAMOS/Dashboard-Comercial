@@ -9,7 +9,7 @@ https://controle-vendas.netlify.app/
 
 ## Status
 ```
- Back-end : em andamento.
+ Back-end : concluido
  Front-end: em andamento.
 ```
 ## Tecnologias adotadas
