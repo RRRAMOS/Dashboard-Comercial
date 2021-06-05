@@ -1,6 +1,6 @@
 ## Sobre
 ```
- Sistema para gestão de vendas composto por tabelas e gráficos para visualização de desempenho.
+ Sistema para gestão de vendas, composto por tabelas e gráficos para visualização de desempenho.
 ```
 
 ## Link Para Web
