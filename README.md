@@ -1,7 +1,6 @@
 ## Sobre
 ```
- Sistema para gestão de vendas
- Contém gráficos para visualização de desempenho
+ Sistema para gestão de vendas composto por tabelas e gráficos para visualização de desempenho.
 ```
 
 ## Link Para Web
@@ -14,7 +13,7 @@ https://controle-vendas.netlify.app/
 ```
 ## Tecnologias adotadas
 ```
--SpringBoot - 
+-SpringBoot - Framework Java
 -Spring Data JPA - persistência de dados
 -Maven - gestão de dependências, build automatizado,   execução testes
 -Tomcat- servlet Java
