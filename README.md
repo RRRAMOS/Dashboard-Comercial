@@ -10,7 +10,7 @@ https://controle-vendas.netlify.app/
 ## Status
 ```
  Back-end : concluido
- Front-end: em andamento.
+ Front-end: concluido.
 ```
 ## Tecnologias adotadas
 ```
@@ -19,6 +19,7 @@ https://controle-vendas.netlify.app/
 -Maven - gestão de dependências, build automatizado,   execução testes
 -Tomcat- servlet Java
 -React - programação client-side
+-Heroku- deploy 
 ```
 
 ## Agradecimentos
